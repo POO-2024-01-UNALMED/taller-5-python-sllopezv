@@ -23,7 +23,7 @@ class Zoologico():
         return self._ubicacion
 
     @classmethod
-    def getZonas(cls):
+    def getZona(cls):
         return cls._zonas
 
     # Setters
